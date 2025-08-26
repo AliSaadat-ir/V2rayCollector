@@ -1,16 +1,15 @@
-vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s5.1dnt.k-l.cloud:80?encryption=none&security=none&type=xhttp&path=%2F123&mode=auto#@Vip_Security join us - 367
-vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 366
-vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 365
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#@Vip_Security join us - 364
-vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?path=%2F&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=random&type=ws&sni=007.xingfu.qzz.io#@Vip_Security join us - 363
-vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 362
-vless://c9032a96-614a-4e8c-bc01-c96aa2ef749c@zarin8i.alireza031.pw:26734?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 361
-vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@malaysia.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=random&type=ws&sni=yx.yushan.dpdns.org#@Vip_Security join us - 360
-vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@modern-promise.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 359
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#@Vip_Security join us - 358
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#@Vip_Security join us - 357
-vless://Parsashonam-302@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 356
-vless://Parsashonam-302@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#@Vip_Security join us - 355
+vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 366
+vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s5.1dnt.k-l.cloud:80?encryption=none&security=none&type=xhttp&path=%2F123&mode=auto#@Vip_Security join us - 365
+vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 364
+vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#@Vip_Security join us - 363
+vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 362
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 361
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 360
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#@Vip_Security join us - 359
+vless://c9032a96-614a-4e8c-bc01-c96aa2ef749c@zarin8i.alireza031.pw:26734?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 358
+vless://b1fe7cec-3028-4cf0-b1c3-af55efd23ad8@91.99.169.64:8443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#@Vip_Security join us - 357
+vless://aa077dd1-0a53-4313-8800-c9ac79a97003@sss71534.tas-bazi.com:443?mode=stream-one&path=%2Fsef&security=none&encryption=none&type=xhttp#@Vip_Security join us - 356
+vless://Parsashonam-302@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 355
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@Vip_Security join us - 354
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@transferwise.com:443?path=%2F%40Rayan_Config&security=tls&encryption=none&host=rayan-config-telegram-a01.leila.dpdns.org&type=ws&sni=rAyAn-cOnFiG-TeLeGrAm-a01.lEiLa.dPdNs.oRg#@Vip_Security join us - 353
 vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?path=%2Fkr1%3Fed%3D2560&security=tls&encryption=none&host=ava.game.naver.com.servpn.my.id&fp=chrome&type=ws&sni=ava.game.naver.com.servpn.my.id#@Vip_Security join us - 352
@@ -20,7 +19,7 @@ vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?path=%2F%40V2rayBaaz---%40V2rayBaaz%3Fed%3D2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@Vip_Security join us - 348
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?path=%2Fid5%2F%3Fed%3D2048bia-planB_proxy&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@Vip_Security join us - 347
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss94870.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp#@Vip_Security join us - 346
-vless://04a68e50-8c5c-447d-8416-9cc075e78a85@91.99.117.223:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 345
+vless://408f71e2-170d-4bf9-8b42-b6ba23cc227c@blog.ruangguru.com.servpn.my.id:443?path=%2Fkr1%3Fed%3D2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=randomized&type=ws&sni=blog.ruangguru.com.servpn.my.id#@Vip_Security join us - 345
 vmess://eyJhZGQiOiJyYXkuc2t5bWlycm9yLmNjIiwiYWlkIjowLCJpZCI6ImM5OTkyOWUxLTljODItNGEzMy1kMTFlLWYxNzcyNDdiOGY2MyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQFZpcF9TZWN1cml0eSBqb2luIHVzIC0gMzQ0XG4iLCJzbmkiOiJyYXkuc2t5bWlycm9yLmNjIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJoazIubHJ6ZHgudWsiLCJhaWQiOjAsImlkIjoiZGI2OWQ1YmMtZDM2Yy00OTAzLWY0NzEtNzRiOThjNWNlZmU1IiwibmV0Ijoid3MiLCJwYXRoIjoiL3JlZ2lzdGVyIiwicG9ydCI6NDQzLCJwcyI6IkBWaXBfU2VjdXJpdHkgam9pbiB1cyAtIDM0M1xuIiwic25pIjoiaGsyLmxyemR4LnVrIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJoazIubHJ6ZHgudWsiLCJhaWQiOjAsImhvc3QiOiJoazIubHJ6ZHgudWsiLCJpZCI6ImRiNjlkNWJjLWQzNmMtNDkwMy1mNDcxLTc0Yjk4YzVjZWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yZWdpc3RlciIsInBvcnQiOjQ0MywicHMiOiJAVmlwX1NlY3VyaXR5IGpvaW4gdXMgLSAzNDJcbiIsInNuaSI6ImhrMi5scnpkeC51ayIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
